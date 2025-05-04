@@ -10,7 +10,12 @@ export default function App() {
         <main>
           <Dictionary defaultKeyword="welcome" />
         </main>
-        <footer className="App-footer">Coded by Sofia Soerensen</footer>
+        <footer className="App-footer">
+          Coded by{" "}
+          <a href="https://github.com/SofiaSoerensen/dictionary-project">
+            Sofia Soerensen
+          </a>
+        </footer>
       </div>
     </div>
   );
