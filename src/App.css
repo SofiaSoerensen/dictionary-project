@@ -13,5 +13,9 @@ body {
 
 .App-footer a {
   text-decoration: none;
-  color: #eaf1f7;
+  color: #4f7cac;
+}
+
+input:focus {
+  border-color: #4f7cac;
 }
